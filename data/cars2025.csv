@@ -1,0 +1,793 @@
+country,brand,brand_origin,units_k,mini_cars,confidence,model,model_weight
+China,BYD,Chinese,4100,46,reported,Seagull,500.0
+China,BYD,Chinese,4100,46,reported,Qin PLUS,450.0
+China,BYD,Chinese,4100,46,reported,Song PLUS,400.0
+China,BYD,Chinese,4100,46,reported,Yuan PLUS (Atto 3),350.0
+China,BYD,Chinese,4100,46,reported,Qin L,350.0
+China,BYD,Chinese,4100,46,reported,Sealion 05/06,300.0
+China,BYD,Chinese,4100,46,reported,Song Pro,300.0
+China,BYD,Chinese,4100,46,reported,Seal 06,300.0
+China,BYD,Chinese,4100,46,reported,Yuan UP,250.0
+China,BYD,Chinese,4100,46,reported,Dolphin,250.0
+China,BYD,Chinese,4100,46,reported,Han,200.0
+China,BYD,Chinese,4100,46,reported,Tang,150.0
+China,BYD,Chinese,4100,46,reported,Seal,150.0
+China,Geely,Chinese,2450,27,reported,Galaxy Xingyuan,450.0
+China,Geely,Chinese,2450,27,reported,Emgrand,350.0
+China,Geely,Chinese,2450,27,reported,Coolray/Binyue,300.0
+China,Geely,Chinese,2450,27,reported,Xingyue L,230.0
+China,Geely,Chinese,2450,27,reported,Galaxy E5,200.0
+China,Geely,Chinese,2450,27,reported,Boyue,200.0
+China,Geely,Chinese,2450,27,reported,Galaxy A7,150.0
+China,Geely,Chinese,2450,27,reported,Galaxy Starship 7,150.0
+China,Geely,Chinese,2450,27,reported,Monjaro,120.0
+China,Changan,Chinese,1900,21,reported,Kaicene vans & trucks,350.0
+China,Changan,Chinese,1900,21,reported,CS75 PLUS,300.0
+China,Changan,Chinese,1900,21,reported,Eado,250.0
+China,Changan,Chinese,1900,21,reported,CS55 PLUS,200.0
+China,Changan,Chinese,1900,21,reported,Qiyuan,150.0
+China,Changan,Chinese,1900,21,reported,UNI-K/UNI-V,150.0
+China,Changan,Chinese,1900,21,reported,Lumin,150.0
+China,Changan,Chinese,1900,21,reported,CS35 PLUS,100.0
+China,Changan,Chinese,1900,21,reported,X5 PLUS,100.0
+China,Volkswagen,German,1880,21,estimated,Lavida,350.0
+China,Volkswagen,German,1880,21,estimated,Sagitar,300.0
+China,Volkswagen,German,1880,21,estimated,Magotan/Passat,200.0
+China,Volkswagen,German,1880,21,estimated,Tiguan L,200.0
+China,Volkswagen,German,1880,21,estimated,Bora,150.0
+China,Volkswagen,German,1880,21,estimated,Tayron,150.0
+China,Volkswagen,German,1880,21,estimated,T-Roc,150.0
+China,Volkswagen,German,1880,21,estimated,ID. series,150.0
+China,Volkswagen,German,1880,21,estimated,Teramont,100.0
+China,Volkswagen,German,1880,21,estimated,Lamando,80.0
+China,Chery,Chinese,1750,20,reported,Tiggo 7,400.0
+China,Chery,Chinese,1750,20,reported,Tiggo 8,350.0
+China,Chery,Chinese,1750,20,reported,Tiggo 4 / Omoda 5,300.0
+China,Chery,Chinese,1750,20,reported,Jaecoo 7,200.0
+China,Chery,Chinese,1750,20,reported,Arrizo 5,200.0
+China,Chery,Chinese,1750,20,reported,Arrizo 8,150.0
+China,Chery,Chinese,1750,20,reported,Fengyun A8/T9,150.0
+China,Toyota,Japanese,1500,17,estimated,Corolla/Levin,350.0
+China,Toyota,Japanese,1500,17,estimated,Camry,250.0
+China,Toyota,Japanese,1500,17,estimated,RAV4/Wildlander,250.0
+China,Toyota,Japanese,1500,17,estimated,Corolla Cross/Frontlander,200.0
+China,Toyota,Japanese,1500,17,estimated,Highlander/Crown Kluger,150.0
+China,Toyota,Japanese,1500,17,estimated,bZ3X/bZ5,150.0
+China,Toyota,Japanese,1500,17,estimated,Sienna/Granvia,80.0
+China,Toyota,Japanese,1500,17,estimated,Avalon/Crown,70.0
+China,Wuling,Chinese,1250,14,estimated,Bingo,250.0
+China,Wuling,Chinese,1250,14,estimated,Hongguang Mini EV,250.0
+China,Wuling,Chinese,1250,14,estimated,Starlight,200.0
+China,Wuling,Chinese,1250,14,estimated,Hongguang MPV,200.0
+China,Wuling,Chinese,1250,14,estimated,Rongguang vans,150.0
+China,Wuling,Chinese,1250,14,estimated,Xingguang/Jiachen,200.0
+China,Tesla,American,852,9,reported,Model Y,560.0
+China,Tesla,American,852,9,reported,Model 3,292.0
+China,Jetour,Chinese,650,7,estimated,Traveller,250.0
+China,Jetour,Chinese,650,7,estimated,X70,200.0
+China,Jetour,Chinese,650,7,estimated,Dashing,150.0
+China,Jetour,Chinese,650,7,estimated,X90,50.0
+China,BMW,German,620,7,estimated,3 Series Li,200.0
+China,BMW,German,620,7,estimated,5 Series Li,160.0
+China,BMW,German,620,7,estimated,X3 Li,160.0
+China,BMW,German,620,7,estimated,X1,100.0
+China,Audi,German,600,7,estimated,A6L,200.0
+China,Audi,German,600,7,estimated,A4L,150.0
+China,Audi,German,600,7,estimated,Q5L,150.0
+China,Audi,German,600,7,estimated,Q3/A3,100.0
+China,Honda,Japanese,600,7,estimated,Accord,120.0
+China,Honda,Japanese,600,7,estimated,CR-V/Breeze,180.0
+China,Honda,Japanese,600,7,estimated,Civic/Integra,150.0
+China,Honda,Japanese,600,7,estimated,Vezel/XR-V,90.0
+China,Honda,Japanese,600,7,estimated,Odyssey/Elysion,60.0
+China,Nissan,Japanese,600,7,estimated,Sylphy,300.0
+China,Nissan,Japanese,600,7,estimated,Qashqai,80.0
+China,Nissan,Japanese,600,7,estimated,X-Trail,80.0
+China,Nissan,Japanese,600,7,estimated,Teana,60.0
+China,Nissan,Japanese,600,7,estimated,N7,50.0
+China,Nissan,Japanese,600,7,estimated,Frontier (Dongfeng),30.0
+China,Haval,Chinese,600,7,estimated,H6,250.0
+China,Haval,Chinese,600,7,estimated,Jolion,150.0
+China,Haval,Chinese,600,7,estimated,Big Dog / Raptor,120.0
+China,Haval,Chinese,600,7,estimated,H9,80.0
+China,Leapmotor,Chinese,597,7,reported,C10,150.0
+China,Leapmotor,Chinese,597,7,reported,C11,120.0
+China,Leapmotor,Chinese,597,7,reported,B10,110.0
+China,Leapmotor,Chinese,597,7,reported,C16,90.0
+China,Leapmotor,Chinese,597,7,reported,T03,70.0
+China,Leapmotor,Chinese,597,7,reported,B01,57.0
+China,MG,Chinese,560,6,estimated,MG ZS/ZS Hybrid+,200.0
+China,MG,Chinese,560,6,estimated,MG4,130.0
+China,MG,Chinese,560,6,estimated,MG3,100.0
+China,MG,Chinese,560,6,estimated,MG HS,80.0
+China,MG,Chinese,560,6,estimated,MG5,50.0
+China,Mercedes-Benz,German,480,5,estimated,C-Class L,180.0
+China,Mercedes-Benz,German,480,5,estimated,E-Class L,140.0
+China,Mercedes-Benz,German,480,5,estimated,GLC L,120.0
+China,Mercedes-Benz,German,480,5,estimated,EQE/GLA/GLB,40.0
+China,Dongfeng,Chinese,476,5,estimated,eπ 007/008,140.0
+China,Dongfeng,Chinese,476,5,estimated,Fengshen L7/Mage,136.0
+China,Dongfeng,Chinese,476,5,estimated,Captain light trucks,200.0
+China,Hongqi,Chinese,460,5,reported,H5,150.0
+China,Hongqi,Chinese,460,5,reported,HS5,110.0
+China,Hongqi,Chinese,460,5,reported,H9,60.0
+China,Hongqi,Chinese,460,5,reported,EH7/HQ9,80.0
+China,Hongqi,Chinese,460,5,reported,HS3,60.0
+China,JAC,Chinese,450,5,estimated,Shuailing light trucks,160.0
+China,JAC,Chinese,450,5,estimated,JS4/JS6,120.0
+China,JAC,Chinese,450,5,estimated,T8/T9 pickups,90.0
+China,JAC,Chinese,450,5,estimated,Refine MPV,80.0
+China,Xpeng,Chinese,429,5,reported,Mona M03,170.0
+China,Xpeng,Chinese,429,5,reported,P7+,80.0
+China,Xpeng,Chinese,429,5,reported,G6,60.0
+China,Xpeng,Chinese,429,5,reported,G7,60.0
+China,Xpeng,Chinese,429,5,reported,X9,59.0
+China,Aito,Chinese,420,5,reported,M8,150.0
+China,Aito,Chinese,420,5,reported,M9,120.0
+China,Aito,Chinese,420,5,reported,M7,100.0
+China,Aito,Chinese,420,5,reported,M5,50.0
+China,Xiaomi,Chinese,410,5,reported,SU7,220.0
+China,Xiaomi,Chinese,410,5,reported,YU7,190.0
+China,Li Auto,Chinese,406,4,reported,L6,170.0
+China,Li Auto,Chinese,406,4,reported,L7,70.0
+China,Li Auto,Chinese,406,4,reported,L8/L9,80.0
+China,Li Auto,Chinese,406,4,reported,i8/i6,50.0
+China,Li Auto,Chinese,406,4,reported,Mega,36.0
+China,Buick,American,400,4,estimated,GL8,110.0
+China,Buick,American,400,4,estimated,Excelle GT/Verano,120.0
+China,Buick,American,400,4,estimated,Envision,90.0
+China,Buick,American,400,4,estimated,Envista,80.0
+China,Foton,Chinese,400,4,estimated,Aumark light trucks,180.0
+China,Foton,Chinese,400,4,estimated,View/Toano vans,120.0
+China,Foton,Chinese,400,4,estimated,Tunland pickups,100.0
+China,Baojun,Chinese,380,4,estimated,Yep/Yep Plus,150.0
+China,Baojun,Chinese,380,4,estimated,Yunduo,120.0
+China,Baojun,Chinese,380,4,estimated,Xiangjing/510,110.0
+China,Trumpchi,Chinese,380,4,estimated,GS4/GS3,130.0
+China,Trumpchi,Chinese,380,4,estimated,M8/M6,110.0
+China,Trumpchi,Chinese,380,4,estimated,E8/S7,80.0
+China,Trumpchi,Chinese,380,4,estimated,Empow,60.0
+China,Lynk & Co,Chinese,350,4,estimated,08,90.0
+China,Lynk & Co,Chinese,350,4,estimated,900,80.0
+China,Lynk & Co,Chinese,350,4,estimated,06,70.0
+China,Lynk & Co,Chinese,350,4,estimated,03,60.0
+China,Lynk & Co,Chinese,350,4,estimated,Z10,50.0
+China,BAIC,Chinese,350,4,estimated,BJ40/BJ60,150.0
+China,BAIC,Chinese,350,4,estimated,X7/X55,100.0
+China,BAIC,Chinese,350,4,estimated,U5 Plus,100.0
+China,Deepal,Chinese,330,4,reported,S07,110.0
+China,Deepal,Chinese,330,4,reported,S05,90.0
+China,Deepal,Chinese,330,4,reported,L07,70.0
+China,Deepal,Chinese,330,4,reported,G318,60.0
+China,Roewe,Chinese,330,4,estimated,i5,110.0
+China,Roewe,Chinese,330,4,estimated,RX5,90.0
+China,Roewe,Chinese,330,4,estimated,D7,60.0
+China,Roewe,Chinese,330,4,estimated,Imax8,70.0
+China,NIO,Chinese,326,4,reported,Onvo L60/L90,130.0
+China,NIO,Chinese,326,4,reported,NIO ES6/EC6/ET5,140.0
+China,NIO,Chinese,326,4,reported,Firefly,56.0
+China,Aion,Chinese,300,3,estimated,S/S Max,110.0
+China,Aion,Chinese,300,3,estimated,Y Plus,90.0
+China,Aion,Chinese,300,3,estimated,V/RT/UT,100.0
+China,Ford,American,280,3,estimated,Ranger/Transit (JMC),120.0
+China,Ford,American,280,3,estimated,Explorer,60.0
+China,Ford,American,280,3,estimated,Territory,60.0
+China,Ford,American,280,3,estimated,Mondeo,40.0
+China,Kia,Korean,250,3,estimated,Seltos/Sportage,120.0
+China,Kia,Korean,250,3,estimated,K3/K5,70.0
+China,Kia,Korean,250,3,estimated,EV5 (export),60.0
+China,Fangchengbao,Chinese,230,2,estimated,Tai 3,90.0
+China,Fangchengbao,Chinese,230,2,estimated,Bao 5,70.0
+China,Fangchengbao,Chinese,230,2,estimated,Tai 7,70.0
+China,Tank,Chinese,230,2,reported,300,110.0
+China,Tank,Chinese,230,2,reported,400,60.0
+China,Tank,Chinese,230,2,reported,500,60.0
+China,Zeekr,Chinese,220,2,estimated,7X,80.0
+China,Zeekr,Chinese,220,2,estimated,001,60.0
+China,Zeekr,Chinese,220,2,estimated,007,50.0
+China,Zeekr,Chinese,220,2,estimated,Mix,30.0
+China,Maxus,Chinese,220,2,estimated,Deliver 9 vans,80.0
+China,Maxus,Chinese,220,2,estimated,T60/T90 pickups,80.0
+China,Maxus,Chinese,220,2,estimated,Mifa 9/G10,60.0
+China,JMC,Chinese,200,2,estimated,Yuhu pickups,90.0
+China,JMC,Chinese,200,2,estimated,Kaiyun light trucks,110.0
+China,Hyundai,Korean,200,2,estimated,Elantra,80.0
+China,Hyundai,Korean,200,2,estimated,Tucson L,60.0
+China,Hyundai,Korean,200,2,estimated,Custo/Sonata,60.0
+China,GWM pickups,Chinese,180,2,estimated,Poer/Cannon,180.0
+China,Arcfox,Chinese,160,2,reported,αT5,90.0
+China,Arcfox,Chinese,160,2,reported,Kaola,70.0
+China,Denza,Chinese,150,2,estimated,D9,90.0
+China,Denza,Chinese,150,2,estimated,N9/N8L,60.0
+China,Volvo,Other European,150,2,estimated,XC60,70.0
+China,Volvo,Other European,150,2,estimated,S90,40.0
+China,Volvo,Other European,150,2,estimated,XC40,25.0
+China,Volvo,Other European,150,2,estimated,S60,15.0
+China,Exeed,Chinese,150,2,estimated,Yaoguang,70.0
+China,Exeed,Chinese,150,2,estimated,Sterra,50.0
+China,Exeed,Chinese,150,2,estimated,TX/LX,30.0
+China,Bestune,Chinese,150,2,estimated,Pony,70.0
+China,Bestune,Chinese,150,2,estimated,T77/B70,80.0
+China,Voyah,Chinese,150,2,reported,Free,60.0
+China,Voyah,Chinese,150,2,reported,Dreamer,60.0
+China,Voyah,Chinese,150,2,reported,Passion/Courage,30.0
+China,Forthing,Chinese,150,2,estimated,Lingzhi MPV,70.0
+China,Forthing,Chinese,150,2,estimated,T5 EVO / Xinghai,80.0
+China,DFSK,Chinese,150,2,estimated,K-series mini trucks,90.0
+China,DFSK,Chinese,150,2,estimated,Glory,60.0
+China,Avatr,Chinese,130,1,reported,07,60.0
+China,Avatr,Chinese,130,1,reported,11,40.0
+China,Avatr,Chinese,130,1,reported,12,30.0
+China,Jetta,Chinese,120,1,estimated,VS5,70.0
+China,Jetta,Chinese,120,1,estimated,VS7,30.0
+China,Jetta,Chinese,120,1,estimated,VA3,20.0
+China,iCar,Chinese,100,1,estimated,03,60.0
+China,iCar,Chinese,100,1,estimated,V23,40.0
+China,Mazda,Japanese,100,1,estimated,CX-5,40.0
+China,Mazda,Japanese,100,1,estimated,Mazda3,35.0
+China,Mazda,Japanese,100,1,estimated,EZ-6,25.0
+China,Wey,Chinese,100,1,estimated,Lanshan,60.0
+China,Wey,Chinese,100,1,estimated,Gaoshan,40.0
+China,Jinbei,Chinese,100,1,estimated,Haise vans,100.0
+China,Cadillac,American,90,1,estimated,CT5,30.0
+China,Cadillac,American,90,1,estimated,XT5,30.0
+China,Cadillac,American,90,1,estimated,GT4/Lyriq,30.0
+China,IM,Chinese,80,1,reported,LS6,45.0
+China,IM,Chinese,80,1,reported,L6,35.0
+China,Chevrolet,American,60,1,estimated,Cavalier/Monza,40.0
+China,Chevrolet,American,60,1,estimated,Trax/Seeker,20.0
+United States,Ford,American,1950,22,reported,F-150 / Super Duty,900.0
+United States,Ford,American,1950,22,reported,Bronco,200.0
+United States,Ford,American,1950,22,reported,Explorer,200.0
+United States,Ford,American,1950,22,reported,Escape,130.0
+United States,Ford,American,1950,22,reported,Transit,150.0
+United States,Ford,American,1950,22,reported,Expedition,110.0
+United States,Ford,American,1950,22,reported,Ranger,70.0
+United States,Ford,American,1950,22,reported,Mustang,50.0
+United States,Ford,American,1950,22,reported,Bronco/others,140.0
+United States,Toyota,Japanese,1250,14,estimated,Camry,300.0
+United States,Toyota,Japanese,1250,14,estimated,RAV4,200.0
+United States,Toyota,Japanese,1250,14,estimated,Grand Highlander/Highlander,250.0
+United States,Toyota,Japanese,1250,14,estimated,Tundra,150.0
+United States,Toyota,Japanese,1250,14,estimated,Corolla Cross,150.0
+United States,Toyota,Japanese,1250,14,estimated,Sienna,100.0
+United States,Toyota,Japanese,1250,14,estimated,Sequoia,40.0
+United States,Toyota,Japanese,1250,14,estimated,Tacoma (TX),60.0
+United States,Chevrolet,American,1050,12,estimated,Silverado,550.0
+United States,Chevrolet,American,1050,12,estimated,Tahoe/Suburban,200.0
+United States,Chevrolet,American,1050,12,estimated,Traverse,150.0
+United States,Chevrolet,American,1050,12,estimated,Colorado,100.0
+United States,Chevrolet,American,1050,12,estimated,Express,30.0
+United States,Chevrolet,American,1050,12,estimated,Corvette,20.0
+United States,Honda,Japanese,860,10,estimated,CR-V,300.0
+United States,Honda,Japanese,860,10,estimated,Civic,150.0
+United States,Honda,Japanese,860,10,estimated,Pilot/Passport,170.0
+United States,Honda,Japanese,860,10,estimated,Accord,100.0
+United States,Honda,Japanese,860,10,estimated,Odyssey,100.0
+United States,Honda,Japanese,860,10,estimated,Ridgeline,40.0
+United States,Tesla,American,632,7,reported,Model Y,400.0
+United States,Tesla,American,632,7,reported,Model 3,150.0
+United States,Tesla,American,632,7,reported,Model S/X,40.0
+United States,Tesla,American,632,7,reported,Cybertruck,42.0
+United States,Nissan,Japanese,470,5,estimated,Rogue,200.0
+United States,Nissan,Japanese,470,5,estimated,Altima,100.0
+United States,Nissan,Japanese,470,5,estimated,Frontier,70.0
+United States,Nissan,Japanese,470,5,estimated,Pathfinder,60.0
+United States,Nissan,Japanese,470,5,estimated,Murano,40.0
+United States,Jeep,American,450,5,estimated,Grand Cherokee,250.0
+United States,Jeep,American,450,5,estimated,Wrangler,150.0
+United States,Jeep,American,450,5,estimated,Gladiator,50.0
+United States,GMC,American,420,5,estimated,Sierra,300.0
+United States,GMC,American,420,5,estimated,Yukon,70.0
+United States,GMC,American,420,5,estimated,Canyon,30.0
+United States,GMC,American,420,5,estimated,Hummer EV,20.0
+United States,Hyundai,Korean,420,5,estimated,Tucson,130.0
+United States,Hyundai,Korean,420,5,estimated,Santa Fe,110.0
+United States,Hyundai,Korean,420,5,estimated,Ioniq 5/Ioniq 9,100.0
+United States,Hyundai,Korean,420,5,estimated,Santa Cruz,40.0
+United States,Hyundai,Korean,420,5,estimated,Elantra/Genesis GV70,40.0
+United States,Ram,American,400,4,estimated,Ram 1500,400.0
+United States,BMW,German,387,4,reported,X3,150.0
+United States,BMW,German,387,4,reported,X5,140.0
+United States,BMW,German,387,4,reported,X7,50.0
+United States,BMW,German,387,4,reported,X6/XM,47.0
+United States,Kia,Korean,350,4,estimated,Telluride,120.0
+United States,Kia,Korean,350,4,estimated,Sorento,90.0
+United States,Kia,Korean,350,4,estimated,Sportage,80.0
+United States,Kia,Korean,350,4,estimated,EV9/EV6,60.0
+United States,Subaru,Japanese,337,4,reported,Outback,110.0
+United States,Subaru,Japanese,337,4,reported,Ascent,60.0
+United States,Subaru,Japanese,337,4,reported,Crosstrek,90.0
+United States,Subaru,Japanese,337,4,reported,Forester,77.0
+United States,Mercedes-Benz,German,260,3,estimated,GLE,110.0
+United States,Mercedes-Benz,German,260,3,estimated,GLS,60.0
+United States,Mercedes-Benz,German,260,3,estimated,GLE Coupé/EQ SUVs,50.0
+United States,Mercedes-Benz,German,260,3,estimated,Sprinter,40.0
+United States,Volkswagen,German,180,2,estimated,Atlas/Atlas Cross Sport,130.0
+United States,Volkswagen,German,180,2,estimated,ID.4,50.0
+United States,Cadillac,American,140,1,estimated,Escalade,50.0
+United States,Cadillac,American,140,1,estimated,Lyriq/Vistiq,40.0
+United States,Cadillac,American,140,1,estimated,XT4/XT5/XT6,30.0
+United States,Cadillac,American,140,1,estimated,CT4/CT5,20.0
+United States,Mazda,Japanese,140,1,estimated,CX-50,140.0
+United States,Acura,Japanese,115,1,estimated,MDX,60.0
+United States,Acura,Japanese,115,1,estimated,RDX,35.0
+United States,Acura,Japanese,115,1,estimated,Integra/TLX,20.0
+United States,Lexus,Japanese,110,1,estimated,TX,60.0
+United States,Lexus,Japanese,110,1,estimated,ES,30.0
+United States,Lexus,Japanese,110,1,estimated,RX,20.0
+United States,Lincoln,American,90,1,estimated,Navigator,40.0
+United States,Lincoln,American,90,1,estimated,Aviator,30.0
+United States,Lincoln,American,90,1,estimated,Corsair,20.0
+United States,Dodge,American,80,1,estimated,Durango,60.0
+United States,Dodge,American,80,1,estimated,Ram ProMaster/others,20.0
+Japan,Toyota,Japanese,2900,32,reported,RAV4,300.0
+Japan,Toyota,Japanese,2900,32,reported,Corolla family,300.0
+Japan,Toyota,Japanese,2900,32,reported,Yaris/Yaris Cross,350.0
+Japan,Toyota,Japanese,2900,32,reported,Prius,150.0
+Japan,Toyota,Japanese,2900,32,reported,Alphard/Vellfire,180.0
+Japan,Toyota,Japanese,2900,32,reported,Noah/Voxy,250.0
+Japan,Toyota,Japanese,2900,32,reported,Sienta,180.0
+Japan,Toyota,Japanese,2900,32,reported,Land Cruiser 250/300,280.0
+Japan,Toyota,Japanese,2900,32,reported,Harrier,150.0
+Japan,Toyota,Japanese,2900,32,reported,Crown,100.0
+Japan,Toyota,Japanese,2900,32,reported,Hiace,100.0
+Japan,Toyota,Japanese,2900,32,reported,Roomy/Raize,200.0
+Japan,Toyota,Japanese,2900,32,reported,others,360.0
+Japan,Suzuki,Japanese,956,11,reported,Spacia,180.0
+Japan,Suzuki,Japanese,956,11,reported,Hustler,110.0
+Japan,Suzuki,Japanese,956,11,reported,Wagon R,90.0
+Japan,Suzuki,Japanese,956,11,reported,Swift,100.0
+Japan,Suzuki,Japanese,956,11,reported,Jimny,90.0
+Japan,Suzuki,Japanese,956,11,reported,Every/Carry,130.0
+Japan,Suzuki,Japanese,956,11,reported,Solio,80.0
+Japan,Suzuki,Japanese,956,11,reported,Alto,80.0
+Japan,Suzuki,Japanese,956,11,reported,others,96.0
+Japan,Daihatsu,Japanese,779,9,reported,Tanto,180.0
+Japan,Daihatsu,Japanese,779,9,reported,Move,160.0
+Japan,Daihatsu,Japanese,779,9,reported,Mira e:S,110.0
+Japan,Daihatsu,Japanese,779,9,reported,Hijet,120.0
+Japan,Daihatsu,Japanese,779,9,reported,Taft,80.0
+Japan,Daihatsu,Japanese,779,9,reported,Rocky/Raize,60.0
+Japan,Daihatsu,Japanese,779,9,reported,others,69.0
+Japan,Mazda,Japanese,717,8,reported,CX-5,250.0
+Japan,Mazda,Japanese,717,8,reported,CX-30,130.0
+Japan,Mazda,Japanese,717,8,reported,Mazda3,100.0
+Japan,Mazda,Japanese,717,8,reported,CX-60/CX-80,120.0
+Japan,Mazda,Japanese,717,8,reported,CX-3,50.0
+Japan,Mazda,Japanese,717,8,reported,MX-5,30.0
+Japan,Mazda,Japanese,717,8,reported,CX-90,37.0
+Japan,Honda,Japanese,690,8,reported,N-Box,220.0
+Japan,Honda,Japanese,690,8,reported,Freed,120.0
+Japan,Honda,Japanese,690,8,reported,Step WGN,70.0
+Japan,Honda,Japanese,690,8,reported,N-WGN/N-One/N-Van,120.0
+Japan,Honda,Japanese,690,8,reported,ZR-V/Vezel,100.0
+Japan,Honda,Japanese,690,8,reported,Civic,60.0
+Japan,Nissan,Japanese,565,6,reported,Serena,90.0
+Japan,Nissan,Japanese,565,6,reported,Note/Aura,100.0
+Japan,Nissan,Japanese,565,6,reported,Roox/Dayz/Sakura,110.0
+Japan,Nissan,Japanese,565,6,reported,X-Trail/Rogue,90.0
+Japan,Nissan,Japanese,565,6,reported,Leaf,30.0
+Japan,Nissan,Japanese,565,6,reported,Patrol/Kicks/others,145.0
+Japan,Subaru,Japanese,540,6,reported,Forester,180.0
+Japan,Subaru,Japanese,540,6,reported,Crosstrek,150.0
+Japan,Subaru,Japanese,540,6,reported,Outback,80.0
+Japan,Subaru,Japanese,540,6,reported,Impreza,60.0
+Japan,Subaru,Japanese,540,6,reported,WRX/Solterra/BRZ,70.0
+Japan,Mitsubishi,Japanese,471,5,reported,Outlander,120.0
+Japan,Mitsubishi,Japanese,471,5,reported,eK/Delica Mini,110.0
+Japan,Mitsubishi,Japanese,471,5,reported,Delica,60.0
+Japan,Mitsubishi,Japanese,471,5,reported,Eclipse Cross,40.0
+Japan,Mitsubishi,Japanese,471,5,reported,Nissan kei (OEM),141.0
+Japan,Lexus,Japanese,380,4,estimated,RX,100.0
+Japan,Lexus,Japanese,380,4,estimated,NX,110.0
+Japan,Lexus,Japanese,380,4,estimated,LX/GX,60.0
+Japan,Lexus,Japanese,380,4,estimated,ES/IS,60.0
+Japan,Lexus,Japanese,380,4,estimated,UX/LBX,50.0
+Japan,Isuzu,Japanese,90,1,estimated,Elf light trucks,90.0
+Japan,Fuso,Japanese,60,1,estimated,Canter light trucks,60.0
+India,Maruti Suzuki,Other,2150,24,reported,Dzire,220.0
+India,Maruti Suzuki,Other,2150,24,reported,Swift,210.0
+India,Maruti Suzuki,Other,2150,24,reported,Baleno,200.0
+India,Maruti Suzuki,Other,2150,24,reported,Fronx,200.0
+India,Maruti Suzuki,Other,2150,24,reported,Brezza,190.0
+India,Maruti Suzuki,Other,2150,24,reported,Ertiga,190.0
+India,Maruti Suzuki,Other,2150,24,reported,WagonR,180.0
+India,Maruti Suzuki,Other,2150,24,reported,Eeco,130.0
+India,Maruti Suzuki,Other,2150,24,reported,Grand Vitara/Victoris,180.0
+India,Maruti Suzuki,Other,2150,24,reported,Alto/S-Presso,140.0
+India,Maruti Suzuki,Other,2150,24,reported,Super Carry/others,150.0
+India,Maruti Suzuki,Other,2150,24,reported,e Vitara/XL6/Jimny,160.0
+India,Mahindra,Other,850,9,estimated,Scorpio-N/Classic,200.0
+India,Mahindra,Other,850,9,estimated,XUV 3XO,120.0
+India,Mahindra,Other,850,9,estimated,Thar/Thar Roxx,130.0
+India,Mahindra,Other,850,9,estimated,XUV700/7XO,100.0
+India,Mahindra,Other,850,9,estimated,Bolero SUV,90.0
+India,Mahindra,Other,850,9,estimated,Bolero pickups,180.0
+India,Mahindra,Other,850,9,estimated,BE 6/XEV 9e,30.0
+India,Tata,Other,780,9,estimated,Nexon,200.0
+India,Tata,Other,780,9,estimated,Punch,190.0
+India,Tata,Other,780,9,estimated,Tiago/Tigor,110.0
+India,Tata,Other,780,9,estimated,Harrier/Safari,70.0
+India,Tata,Other,780,9,estimated,Altroz/Curvv,70.0
+India,Tata,Other,780,9,estimated,Ace small trucks,140.0
+India,Hyundai,Korean,760,8,estimated,Creta,220.0
+India,Hyundai,Korean,760,8,estimated,Venue,150.0
+India,Hyundai,Korean,760,8,estimated,Exter,90.0
+India,Hyundai,Korean,760,8,estimated,i20,80.0
+India,Hyundai,Korean,760,8,estimated,Verna,70.0
+India,Hyundai,Korean,760,8,estimated,Grand i10 Nios,90.0
+India,Hyundai,Korean,760,8,estimated,Alcazar/Aura,60.0
+India,Toyota,Japanese,435,5,estimated,Innova Hycross/Crysta,130.0
+India,Toyota,Japanese,435,5,estimated,Hyryder,80.0
+India,Toyota,Japanese,435,5,estimated,Fortuner/Hilux,60.0
+India,Toyota,Japanese,435,5,estimated,Glanza/Taisor/Rumion (Maruti-built),165.0
+India,Kia,Korean,330,4,estimated,Sonet,120.0
+India,Kia,Korean,330,4,estimated,Seltos,100.0
+India,Kia,Korean,330,4,estimated,Carens,70.0
+India,Kia,Korean,330,4,estimated,Syros,40.0
+India,Skoda,Other European,130,1,estimated,Kylaq,60.0
+India,Skoda,Other European,130,1,estimated,Kushaq,35.0
+India,Skoda,Other European,130,1,estimated,Slavia,35.0
+India,Honda,Japanese,110,1,estimated,Amaze,45.0
+India,Honda,Japanese,110,1,estimated,City,25.0
+India,Honda,Japanese,110,1,estimated,Elevate/WR-V,40.0
+India,Volkswagen,German,80,1,estimated,Virtus,45.0
+India,Volkswagen,German,80,1,estimated,Taigun,35.0
+India,MG,Chinese,70,1,estimated,Windsor EV,40.0
+India,MG,Chinese,70,1,estimated,Hector/Astor/Comet,30.0
+India,Nissan,Japanese,60,1,estimated,Magnite,60.0
+India,Renault,Other European,50,1,estimated,Kiger,20.0
+India,Renault,Other European,50,1,estimated,Triber,20.0
+India,Renault,Other European,50,1,estimated,Kwid,10.0
+Germany,Mercedes-Benz,German,1100,12,estimated,C-Class,220.0
+Germany,Mercedes-Benz,German,1100,12,estimated,E-Class,180.0
+Germany,Mercedes-Benz,German,1100,12,estimated,GLC,200.0
+Germany,Mercedes-Benz,German,1100,12,estimated,S-Class/EQS,110.0
+Germany,Mercedes-Benz,German,1100,12,estimated,A/B/CLA,190.0
+Germany,Mercedes-Benz,German,1100,12,estimated,Sprinter/Vito vans,200.0
+Germany,Volkswagen,German,1050,12,estimated,Golf,350.0
+Germany,Volkswagen,German,1050,12,estimated,Tiguan,250.0
+Germany,Volkswagen,German,1050,12,estimated,Passat,120.0
+Germany,Volkswagen,German,1050,12,estimated,ID.3/ID.4/ID.7,200.0
+Germany,Volkswagen,German,1050,12,estimated,ID. Buzz/Multivan,80.0
+Germany,Volkswagen,German,1050,12,estimated,Touran,50.0
+Germany,BMW,German,870,10,estimated,3 Series,200.0
+Germany,BMW,German,870,10,estimated,5 Series/i5,200.0
+Germany,BMW,German,870,10,estimated,X1,150.0
+Germany,BMW,German,870,10,estimated,1/2 Series,120.0
+Germany,BMW,German,870,10,estimated,7 Series/i7,60.0
+Germany,BMW,German,870,10,estimated,i4,80.0
+Germany,BMW,German,870,10,estimated,iX,60.0
+Germany,Audi,German,520,6,estimated,A5/A4,150.0
+Germany,Audi,German,520,6,estimated,A6,120.0
+Germany,Audi,German,520,6,estimated,A3,90.0
+Germany,Audi,German,520,6,estimated,Q6 e-tron,70.0
+Germany,Audi,German,520,6,estimated,Q4/Q5 e-tron (Zwickau),60.0
+Germany,Audi,German,520,6,estimated,A8/e-tron GT,30.0
+Germany,Porsche,German,230,2,estimated,Macan,80.0
+Germany,Porsche,German,230,2,estimated,Panamera,30.0
+Germany,Porsche,German,230,2,estimated,911,50.0
+Germany,Porsche,German,230,2,estimated,Taycan,20.0
+Germany,Porsche,German,230,2,estimated,718,20.0
+Germany,Porsche,German,230,2,estimated,Cayenne coupé,30.0
+Germany,Tesla,American,200,2,estimated,Model Y,200.0
+Germany,Ford,American,160,2,estimated,Focus,100.0
+Germany,Ford,American,160,2,estimated,Explorer/Capri EV,60.0
+Germany,Opel,German,130,1,estimated,Astra,70.0
+Germany,Opel,German,130,1,estimated,Grandland,60.0
+Germany,Mini,German,100,1,estimated,Countryman,100.0
+South Korea,Kia,Korean,1600,18,estimated,Sorento,200.0
+South Korea,Kia,Korean,1600,18,estimated,Sportage,200.0
+South Korea,Kia,Korean,1600,18,estimated,Carnival,170.0
+South Korea,Kia,Korean,1600,18,estimated,Seltos,150.0
+South Korea,Kia,Korean,1600,18,estimated,Niro,110.0
+South Korea,Kia,Korean,1600,18,estimated,K5/K8,150.0
+South Korea,Kia,Korean,1600,18,estimated,Ray,80.0
+South Korea,Kia,Korean,1600,18,estimated,EV3/EV9/EV6,160.0
+South Korea,Kia,Korean,1600,18,estimated,Bongo light truck,100.0
+South Korea,Kia,Korean,1600,18,estimated,Trailblazer-sized others,280.0
+South Korea,Hyundai,Korean,1550,17,estimated,Avante/Elantra,200.0
+South Korea,Hyundai,Korean,1550,17,estimated,Tucson,180.0
+South Korea,Hyundai,Korean,1550,17,estimated,Santa Fe,180.0
+South Korea,Hyundai,Korean,1550,17,estimated,Grandeur,150.0
+South Korea,Hyundai,Korean,1550,17,estimated,Palisade,150.0
+South Korea,Hyundai,Korean,1550,17,estimated,Kona,150.0
+South Korea,Hyundai,Korean,1550,17,estimated,Sonata,80.0
+South Korea,Hyundai,Korean,1550,17,estimated,Ioniq 5/6,120.0
+South Korea,Hyundai,Korean,1550,17,estimated,Casper,60.0
+South Korea,Hyundai,Korean,1550,17,estimated,Porter light truck,110.0
+South Korea,Hyundai,Korean,1550,17,estimated,Staria,90.0
+South Korea,Hyundai,Korean,1550,17,estimated,Venue,60.0
+South Korea,Chevrolet,American,420,5,estimated,Trax Crossover,270.0
+South Korea,Chevrolet,American,420,5,estimated,Trailblazer,150.0
+South Korea,Genesis,Korean,200,2,estimated,G80,60.0
+South Korea,Genesis,Korean,200,2,estimated,GV80,50.0
+South Korea,Genesis,Korean,200,2,estimated,GV70,50.0
+South Korea,Genesis,Korean,200,2,estimated,G90/GV60,40.0
+South Korea,KGM,Korean,105,1,estimated,Torres,50.0
+South Korea,KGM,Korean,105,1,estimated,Actyon,25.0
+South Korea,KGM,Korean,105,1,estimated,Rexton/Musso,30.0
+South Korea,Renault,Other European,100,1,estimated,Grand Koleos,60.0
+South Korea,Renault,Other European,100,1,estimated,Arkana,25.0
+South Korea,Renault,Other European,100,1,estimated,QM6,15.0
+South Korea,Buick,American,70,1,estimated,Envista,40.0
+South Korea,Buick,American,70,1,estimated,Encore GX,30.0
+Mexico,Nissan,Japanese,659,7,reported,Versa,160.0
+Mexico,Nissan,Japanese,659,7,reported,Sentra,160.0
+Mexico,Nissan,Japanese,659,7,reported,Kicks,130.0
+Mexico,Nissan,Japanese,659,7,reported,NP300/Frontier,150.0
+Mexico,Nissan,Japanese,659,7,reported,March/others,59.0
+Mexico,Chevrolet,American,657,7,estimated,Silverado,280.0
+Mexico,Chevrolet,American,657,7,estimated,Equinox,150.0
+Mexico,Chevrolet,American,657,7,estimated,Blazer,70.0
+Mexico,Chevrolet,American,657,7,estimated,Equinox EV / Blazer EV,110.0
+Mexico,Chevrolet,American,657,7,estimated,Cheyenne/others,47.0
+Mexico,Ford,American,417,5,reported,Maverick,220.0
+Mexico,Ford,American,417,5,reported,Bronco Sport,140.0
+Mexico,Ford,American,417,5,reported,Mustang Mach-E,57.0
+Mexico,Ram,American,340,4,estimated,Ram 2500/3500,180.0
+Mexico,Ram,American,340,4,estimated,Ram 1500 Classic,80.0
+Mexico,Ram,American,340,4,estimated,ProMaster,80.0
+Mexico,Volkswagen,German,336,4,reported,Jetta,200.0
+Mexico,Volkswagen,German,336,4,reported,Taos,110.0
+Mexico,Volkswagen,German,336,4,reported,Tiguan,26.0
+Mexico,Toyota,Japanese,310,3,reported,Tacoma,310.0
+Mexico,Kia,Korean,288,3,reported,K3/K4,200.0
+Mexico,Kia,Korean,288,3,reported,Rio/Hyundai HB20 (OEM),88.0
+Mexico,GMC,American,200,2,estimated,Sierra,200.0
+Mexico,Mazda,Japanese,175,2,reported,CX-30,90.0
+Mexico,Mazda,Japanese,175,2,reported,Mazda3,85.0
+Mexico,Honda,Japanese,159,2,reported,HR-V,159.0
+Mexico,Audi,German,147,2,reported,Q5,147.0
+Mexico,BMW,German,95,1,reported,3 Series,75.0
+Mexico,BMW,German,95,1,reported,2 Series Coupé,20.0
+Mexico,Mercedes-Benz,German,57,1,reported,GLB,57.0
+Mexico,Jeep,American,56,1,estimated,Compass,56.0
+Brazil,Fiat,Other European,560,6,estimated,Strada,180.0
+Brazil,Fiat,Other European,560,6,estimated,Argo,90.0
+Brazil,Fiat,Other European,560,6,estimated,Mobi,60.0
+Brazil,Fiat,Other European,560,6,estimated,Pulse,60.0
+Brazil,Fiat,Other European,560,6,estimated,Fastback,40.0
+Brazil,Fiat,Other European,560,6,estimated,Toro,70.0
+Brazil,Fiat,Other European,560,6,estimated,Titano/others,60.0
+Brazil,Volkswagen,German,470,5,estimated,Polo,130.0
+Brazil,Volkswagen,German,470,5,estimated,T-Cross,100.0
+Brazil,Volkswagen,German,470,5,estimated,Nivus,60.0
+Brazil,Volkswagen,German,470,5,estimated,Virtus,50.0
+Brazil,Volkswagen,German,470,5,estimated,Tera,80.0
+Brazil,Volkswagen,German,470,5,estimated,Saveiro,50.0
+Brazil,Chevrolet,American,340,4,estimated,Onix/Onix Plus,150.0
+Brazil,Chevrolet,American,340,4,estimated,Tracker,100.0
+Brazil,Chevrolet,American,340,4,estimated,S10,40.0
+Brazil,Chevrolet,American,340,4,estimated,Spin,30.0
+Brazil,Chevrolet,American,340,4,estimated,Montana,20.0
+Brazil,Toyota,Japanese,230,2,estimated,Corolla Cross,120.0
+Brazil,Toyota,Japanese,230,2,estimated,Corolla,50.0
+Brazil,Toyota,Japanese,230,2,estimated,Yaris,60.0
+Brazil,Jeep,American,220,2,estimated,Compass,100.0
+Brazil,Jeep,American,220,2,estimated,Renegade,70.0
+Brazil,Jeep,American,220,2,estimated,Commander,50.0
+Brazil,Hyundai,Korean,210,2,estimated,HB20,140.0
+Brazil,Hyundai,Korean,210,2,estimated,Creta,70.0
+Brazil,Renault,Other European,200,2,estimated,Kwid,60.0
+Brazil,Renault,Other European,200,2,estimated,Kardian,60.0
+Brazil,Renault,Other European,200,2,estimated,Duster,50.0
+Brazil,Renault,Other European,200,2,estimated,Oroch,30.0
+Brazil,Honda,Japanese,90,1,estimated,HR-V,50.0
+Brazil,Honda,Japanese,90,1,estimated,City,25.0
+Brazil,Honda,Japanese,90,1,estimated,WR-V,15.0
+Brazil,Nissan,Japanese,80,1,estimated,Kicks,80.0
+Brazil,Citroen,Other European,60,1,estimated,Basalt/C3/Aircross,60.0
+Brazil,Peugeot,Other European,50,1,estimated,208,50.0
+Spain,Renault,Other European,380,4,estimated,Captur,120.0
+Spain,Renault,Other European,380,4,estimated,Austral,100.0
+Spain,Renault,Other European,380,4,estimated,Symbioz,80.0
+Spain,Renault,Other European,380,4,estimated,Espace/Rafale,80.0
+Spain,Peugeot,Other European,330,4,estimated,2008,150.0
+Spain,Peugeot,Other European,330,4,estimated,208,80.0
+Spain,Peugeot,Other European,330,4,estimated,Rifter/Partner,100.0
+Spain,Citroen,Other European,270,3,estimated,C4/C4 X,80.0
+Spain,Citroen,Other European,270,3,estimated,Berlingo,120.0
+Spain,Citroen,Other European,270,3,estimated,C3 Aircross,70.0
+Spain,Volkswagen,German,250,3,estimated,T-Cross,150.0
+Spain,Volkswagen,German,250,3,estimated,Taigo,100.0
+Spain,SEAT,Other European,230,3,estimated,Ibiza,110.0
+Spain,SEAT,Other European,230,3,estimated,Arona,120.0
+Spain,Opel,German,220,2,estimated,Corsa,150.0
+Spain,Opel,German,220,2,estimated,Combo,70.0
+Spain,Cupra,Other European,180,2,estimated,Formentor,130.0
+Spain,Cupra,Other European,180,2,estimated,Leon,50.0
+Spain,Ford,American,120,1,estimated,Kuga,120.0
+Spain,Mercedes-Benz,German,110,1,estimated,V-Class/Vito,110.0
+Spain,Toyota,Japanese,50,1,estimated,Proace City,50.0
+Czechia,Skoda,Other European,900,10,estimated,Octavia,330.0
+Czechia,Skoda,Other European,900,10,estimated,Kodiaq,150.0
+Czechia,Skoda,Other European,900,10,estimated,Karoq,100.0
+Czechia,Skoda,Other European,900,10,estimated,Fabia,90.0
+Czechia,Skoda,Other European,900,10,estimated,Kamiq,70.0
+Czechia,Skoda,Other European,900,10,estimated,Scala,50.0
+Czechia,Skoda,Other European,900,10,estimated,Enyaq/Elroq,110.0
+Czechia,Hyundai,Korean,330,4,estimated,Tucson,180.0
+Czechia,Hyundai,Korean,330,4,estimated,Kona Electric,80.0
+Czechia,Hyundai,Korean,330,4,estimated,i30,70.0
+Czechia,Toyota,Japanese,220,2,estimated,Yaris,140.0
+Czechia,Toyota,Japanese,220,2,estimated,Aygo X,80.0
+France,Renault,Other European,520,6,estimated,Clio,130.0
+France,Renault,Other European,520,6,estimated,R5/R4,110.0
+France,Renault,Other European,520,6,estimated,Scenic/Megane E-Tech,80.0
+France,Renault,Other European,520,6,estimated,Kangoo,80.0
+France,Renault,Other European,520,6,estimated,Master/Trafic,120.0
+France,Peugeot,Other European,450,5,estimated,3008,130.0
+France,Peugeot,Other European,450,5,estimated,5008,70.0
+France,Peugeot,Other European,450,5,estimated,308/408,120.0
+France,Peugeot,Other European,450,5,estimated,Expert/Boxer,130.0
+France,Toyota,Japanese,250,3,estimated,Yaris,170.0
+France,Toyota,Japanese,250,3,estimated,Yaris Cross,80.0
+France,Citroen,Other European,120,1,estimated,C5 Aircross,60.0
+France,Citroen,Other European,120,1,estimated,Jumpy/Jumper,60.0
+France,Opel,German,70,1,estimated,Vivaro/Movano,70.0
+Turkey,Ford,American,370,4,estimated,Transit Custom,170.0
+Turkey,Ford,American,370,4,estimated,Transit,120.0
+Turkey,Ford,American,370,4,estimated,Transit Courier/Puma Gen-E,80.0
+Turkey,Renault,Other European,280,3,estimated,Clio,180.0
+Turkey,Renault,Other European,280,3,estimated,Duster,100.0
+Turkey,Hyundai,Korean,230,3,estimated,i20,120.0
+Turkey,Hyundai,Korean,230,3,estimated,i10,70.0
+Turkey,Hyundai,Korean,230,3,estimated,Bayon,40.0
+Turkey,Toyota,Japanese,200,2,estimated,C-HR,140.0
+Turkey,Toyota,Japanese,200,2,estimated,Corolla,60.0
+Turkey,Fiat,Other European,160,2,estimated,Egea,100.0
+Turkey,Fiat,Other European,160,2,estimated,Doblo,60.0
+Thailand,Toyota,Japanese,560,6,estimated,Hilux,280.0
+Thailand,Toyota,Japanese,560,6,estimated,Fortuner,80.0
+Thailand,Toyota,Japanese,560,6,estimated,Yaris Ativ,110.0
+Thailand,Toyota,Japanese,560,6,estimated,Corolla Cross,90.0
+Thailand,Isuzu,Japanese,290,3,estimated,D-Max,240.0
+Thailand,Isuzu,Japanese,290,3,estimated,MU-X,50.0
+Thailand,Mitsubishi,Japanese,150,2,estimated,Triton,90.0
+Thailand,Mitsubishi,Japanese,150,2,estimated,Pajero Sport,30.0
+Thailand,Mitsubishi,Japanese,150,2,estimated,Attrage/Mirage,30.0
+Thailand,Ford,American,130,1,estimated,Ranger,100.0
+Thailand,Ford,American,130,1,estimated,Everest,30.0
+Thailand,Honda,Japanese,110,1,estimated,City,60.0
+Thailand,Honda,Japanese,110,1,estimated,HR-V,30.0
+Thailand,Honda,Japanese,110,1,estimated,Civic,20.0
+Thailand,BYD,Chinese,50,1,estimated,Atto 3,20.0
+Thailand,BYD,Chinese,50,1,estimated,Dolphin,20.0
+Thailand,BYD,Chinese,50,1,estimated,Seal,10.0
+Canada,Toyota,Japanese,430,5,estimated,RAV4,300.0
+Canada,Toyota,Japanese,430,5,estimated,others,130.0
+Canada,Honda,Japanese,416,5,reported,CR-V,250.0
+Canada,Honda,Japanese,416,5,reported,Civic,166.0
+Canada,Chevrolet,American,126,1,reported,Silverado,120.0
+Canada,Chevrolet,American,126,1,reported,BrightDrop,6.0
+Canada,Lexus,Japanese,100,1,estimated,RX,100.0
+Canada,Chrysler,American,100,1,estimated,Pacifica/Voyager,100.0
+Slovakia,Kia,Korean,340,4,estimated,Sportage,180.0
+Slovakia,Kia,Korean,340,4,estimated,Ceed/XCeed,160.0
+Slovakia,Peugeot,Other European,230,3,estimated,208,230.0
+Slovakia,Land Rover,Other European,130,1,estimated,Defender,110.0
+Slovakia,Land Rover,Other European,130,1,estimated,Discovery,20.0
+Slovakia,Volkswagen,German,110,1,estimated,Touareg,60.0
+Slovakia,Volkswagen,German,110,1,estimated,Up!/others,50.0
+Slovakia,Skoda,Other European,90,1,estimated,Superb,90.0
+Slovakia,Porsche,German,70,1,estimated,Cayenne,70.0
+Slovakia,Audi,German,70,1,estimated,Q7/Q8,70.0
+Slovakia,Citroen,Other European,60,1,estimated,C3,60.0
+Indonesia,Toyota,Japanese,420,5,estimated,Avanza/Veloz,150.0
+Indonesia,Toyota,Japanese,420,5,estimated,Innova Zenix,90.0
+Indonesia,Toyota,Japanese,420,5,estimated,Calya,60.0
+Indonesia,Toyota,Japanese,420,5,estimated,Rush,60.0
+Indonesia,Toyota,Japanese,420,5,estimated,Fortuner,60.0
+Indonesia,Daihatsu,Japanese,280,3,estimated,Sigra,80.0
+Indonesia,Daihatsu,Japanese,280,3,estimated,Xenia,50.0
+Indonesia,Daihatsu,Japanese,280,3,estimated,Gran Max,70.0
+Indonesia,Daihatsu,Japanese,280,3,estimated,Ayla,50.0
+Indonesia,Daihatsu,Japanese,280,3,estimated,Terios,30.0
+Indonesia,Mitsubishi,Japanese,130,1,estimated,Xpander,90.0
+Indonesia,Mitsubishi,Japanese,130,1,estimated,L300,25.0
+Indonesia,Mitsubishi,Japanese,130,1,estimated,Pajero Sport,15.0
+Indonesia,Honda,Japanese,110,1,estimated,Brio,60.0
+Indonesia,Honda,Japanese,110,1,estimated,BR-V/HR-V,50.0
+Indonesia,Suzuki,Japanese,110,1,estimated,Carry,50.0
+Indonesia,Suzuki,Japanese,110,1,estimated,Ertiga/XL7,60.0
+Indonesia,Hyundai,Korean,50,1,estimated,Creta/Stargazer,50.0
+Iran,Iran Khodro,Other,500,6,estimated,Tara,120.0
+Iran,Iran Khodro,Other,500,6,estimated,Dena,120.0
+Iran,Iran Khodro,Other,500,6,estimated,Peugeot Pars/207i,160.0
+Iran,Iran Khodro,Other,500,6,estimated,Runna/others,100.0
+Iran,Saipa,Other,380,4,estimated,Shahin,150.0
+Iran,Saipa,Other,380,4,estimated,Quick,100.0
+Iran,Saipa,Other,380,4,estimated,Saina/Tiba,130.0
+Iran,Kerman Motor (KMC),Other,80,1,estimated,J7/T8 (JAC/Chery-based),80.0
+Iran,Bahman,Other,50,1,estimated,Fidelity/Dignity,50.0
+Malaysia,Perodua,Other,360,4,estimated,Bezza,110.0
+Malaysia,Perodua,Other,360,4,estimated,Myvi,100.0
+Malaysia,Perodua,Other,360,4,estimated,Axia,80.0
+Malaysia,Perodua,Other,360,4,estimated,Ativa/Alza,70.0
+Malaysia,Proton,Other,170,2,estimated,Saga,70.0
+Malaysia,Proton,Other,170,2,estimated,X50,50.0
+Malaysia,Proton,Other,170,2,estimated,X70/X90,30.0
+Malaysia,Proton,Other,170,2,estimated,Persona,20.0
+Malaysia,Honda,Japanese,80,1,estimated,City,40.0
+Malaysia,Honda,Japanese,80,1,estimated,HR-V,40.0
+Malaysia,Toyota,Japanese,60,1,estimated,Vios/Yaris Cross,60.0
+Russia,Lada,Other,330,4,estimated,Granta,200.0
+Russia,Lada,Other,330,4,estimated,Vesta,100.0
+Russia,Lada,Other,330,4,estimated,Niva,30.0
+Russia,Haval,Chinese,140,1,estimated,Jolion,60.0
+Russia,Haval,Chinese,140,1,estimated,F7,50.0
+Russia,Haval,Chinese,140,1,estimated,H6/Dargo,30.0
+Russia,GAZ,Other,60,1,estimated,Gazelle,60.0
+Russia,Tenet,Chinese,60,1,estimated,T7,35.0
+Russia,Tenet,Chinese,60,1,estimated,T4,25.0
+United Kingdom,Nissan,Japanese,270,3,estimated,Qashqai,170.0
+United Kingdom,Nissan,Japanese,270,3,estimated,Juke,80.0
+United Kingdom,Nissan,Japanese,270,3,estimated,Leaf,20.0
+United Kingdom,Land Rover,Other European,170,2,estimated,Range Rover/RR Sport,120.0
+United Kingdom,Land Rover,Other European,170,2,estimated,Velar/Discovery Sport,50.0
+United Kingdom,Mini,German,140,1,estimated,Cooper,140.0
+United Kingdom,Toyota,Japanese,110,1,estimated,Corolla,110.0
+South Africa,Toyota,Japanese,150,2,estimated,Hilux,90.0
+South Africa,Toyota,Japanese,150,2,estimated,Corolla Cross,40.0
+South Africa,Toyota,Japanese,150,2,estimated,Hiace,20.0
+South Africa,Volkswagen,German,130,1,estimated,Polo,130.0
+South Africa,Ford,American,130,1,estimated,Ranger,130.0
+South Africa,BMW,German,65,1,estimated,X3,65.0
+South Africa,Mercedes-Benz,German,60,1,estimated,C-Class,60.0
+Romania,Dacia,Other European,300,3,estimated,Duster,200.0
+Romania,Dacia,Other European,300,3,estimated,Bigster,100.0
+Romania,Ford,American,240,3,estimated,Puma,150.0
+Romania,Ford,American,240,3,estimated,Transit Courier,90.0
+Argentina,Toyota,Japanese,160,2,estimated,Hilux,120.0
+Argentina,Toyota,Japanese,160,2,estimated,SW4,40.0
+Argentina,Volkswagen,German,80,1,estimated,Amarok,40.0
+Argentina,Volkswagen,German,80,1,estimated,Taos,40.0
+Argentina,Ford,American,60,1,estimated,Ranger,60.0
+Argentina,Peugeot,Other European,60,1,estimated,208,40.0
+Argentina,Peugeot,Other European,60,1,estimated,2008,20.0
+Argentina,Fiat,Other European,50,1,estimated,Cronos,50.0
+Poland,Volkswagen,German,250,3,estimated,Caddy,150.0
+Poland,Volkswagen,German,250,3,estimated,Crafter,100.0
+Poland,Jeep,American,100,1,estimated,Avenger,100.0
+Poland,Fiat,Other European,80,1,estimated,600,80.0
+Uzbekistan,Chevrolet,American,380,4,estimated,Cobalt,120.0
+Uzbekistan,Chevrolet,American,380,4,estimated,Onix,100.0
+Uzbekistan,Chevrolet,American,380,4,estimated,Tracker,80.0
+Uzbekistan,Chevrolet,American,380,4,estimated,Damas/Labo,80.0
+Uzbekistan,BYD,Chinese,50,1,estimated,Song PLUS,30.0
+Uzbekistan,BYD,Chinese,50,1,estimated,Chazor,20.0
+Italy,Fiat,Other European,300,3,estimated,Ducato,200.0
+Italy,Fiat,Other European,300,3,estimated,Pandina,100.0
+Italy,Jeep,American,60,1,estimated,Compass,40.0
+Italy,Jeep,American,60,1,estimated,Renegade,20.0
+Italy,Iveco,Other European,50,1,estimated,Daily,50.0
+Hungary,Mercedes-Benz,German,150,2,estimated,CLA,90.0
+Hungary,Mercedes-Benz,German,150,2,estimated,GLB/A-Class,60.0
+Hungary,Audi,German,150,2,estimated,Q3/Q3 Sportback,150.0
+Hungary,Suzuki,Japanese,100,1,estimated,Vitara,60.0
+Hungary,Suzuki,Japanese,100,1,estimated,S-Cross,40.0
+Morocco,Dacia,Other European,280,3,estimated,Sandero,200.0
+Morocco,Dacia,Other European,280,3,estimated,Jogger/Logan,80.0
+Morocco,Peugeot,Other European,120,1,estimated,208,120.0
+Portugal,Volkswagen,German,230,3,estimated,T-Roc,230.0
+Sweden,Volvo,Other European,250,3,estimated,XC60,130.0
+Sweden,Volvo,Other European,250,3,estimated,XC90/EX90,70.0
+Sweden,Volvo,Other European,250,3,estimated,V60/V90,50.0
+Vietnam,VinFast,Other,150,2,estimated,VF 3,60.0
+Vietnam,VinFast,Other,150,2,estimated,VF 5,50.0
+Vietnam,VinFast,Other,150,2,estimated,VF 6/VF 7,40.0
+Vietnam,Hyundai,Korean,60,1,estimated,Accent/Creta,60.0
+Belgium,Volvo,Other European,200,2,estimated,XC40/EX40,130.0
+Belgium,Volvo,Other European,200,2,estimated,EX30,70.0
+Taiwan,Toyota,Japanese,100,1,estimated,Corolla Cross,70.0
+Taiwan,Toyota,Japanese,100,1,estimated,Hiace/others,30.0
+Pakistan,Suzuki,Japanese,100,1,estimated,Alto,60.0
+Pakistan,Suzuki,Japanese,100,1,estimated,Swift/Cultus,20.0
+Pakistan,Suzuki,Japanese,100,1,estimated,Ravi/Bolan,20.0
+Philippines,Toyota,Japanese,80,1,estimated,Vios,30.0
+Philippines,Toyota,Japanese,80,1,estimated,Innova/Tamaraw,50.0
+Kazakhstan,Hyundai,Korean,60,1,estimated,Creta/Elantra/Tucson,60.0
+Slovenia,Renault,Other European,61,1,estimated,Clio,61.0
+Serbia,Fiat,Other European,51,1,estimated,Grande Panda,51.0
